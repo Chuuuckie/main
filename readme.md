@@ -13,6 +13,10 @@ Jaim, Isaac Bryle - *BS-Computer Engineering* **Documentation & Analyst**
 
 Tomines, Kenn - *BS-Computer Engineering* **Project Manager**
 
+### Adviser
+
+Engr. Abad, Diego MEng. UCLM
+
 <br>
 
 
@@ -22,6 +26,6 @@ Tomines, Kenn - *BS-Computer Engineering* **Project Manager**
   
 ### BSCOMPE DISCORD LINK
 
-
+https://discord.gg/VBEV3ug
 
 
