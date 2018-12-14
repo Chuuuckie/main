@@ -29,3 +29,18 @@ Engr. Abad, Diego MEng. UCLM
 https://discord.gg/VBEV3ug
 
 
+### Requirements for Development
+
+- Raspberry Pi 3 Module B
+- VNC Server and Viewer
+- Open CV
+- Numpy
+
+### Modules Included
+
+- Arduino
+- GSM&GPS Module
+- Water Pump
+- Buzzer
+- Webcam
+
