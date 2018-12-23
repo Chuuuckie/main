@@ -1,5 +1,3 @@
-#Property of CebuDIYTech
-
 import time
 
 import cv2
