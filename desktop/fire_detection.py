@@ -63,6 +63,3 @@ while True:
 cv2.destroyAllWindows()
 if not usingPiCamera:
     video.release()
-
-
-
