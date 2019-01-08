@@ -1,5 +1,4 @@
 # File: threaded_videostream_demo.py
-
 import time
 
 import cv2
